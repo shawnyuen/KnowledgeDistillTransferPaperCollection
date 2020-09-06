@@ -12,7 +12,7 @@
 
 ## 2017
 ### (Gram Matrix) A Gift from Knowledge Distillation Fast Optimization, Network Minimization and Transfer Learning CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yim_A_Gift_From_CVPR_2017_paper.html)
-### (Attention Map) Paying More Attention to Attention Improving the Performance of Convolutional Neural Networks via Attention Transfer ICLR 2017 [[paper]]()
+### (Attention Map) Paying More Attention to Attention Improving the Performance of Convolutional Neural Networks via Attention Transfer ICLR 2017 [[paper]](https://openreview.net/forum?id=Sks9_ajex) [[code]](https://github.com/szagoruyko/attention-transfer)
 
 ## 2018
 ### An Embarrassingly Simple Approach for Knowledge Distillation arXiv 2018 [[paper]](https://arxiv.org/abs/1812.01819)
