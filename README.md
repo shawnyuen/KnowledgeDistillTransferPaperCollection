@@ -27,7 +27,7 @@
 ### Correlation Congruence for Knowledge Distillation ICCV 2019 [[arXiv paper]](https://arxiv.org/abs/1904.01802)
 ### Distilling Knowledge from a Deep Pose Regressor Network ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.html)
 ### Knowledge Distillation via Instance Relationship Graph CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.html)
-### Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons AAAI 2019 [[paper]](https://arxiv.org/abs/1811.03233)
+### Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons AAAI 2019 [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4264) [[arXiv paper]](https://arxiv.org/abs/1811.03233) [[code]](https://github.com/bhheo/AB_distillation)
 ### Learning Metrics From Teachers Compact Networks for Image Embedding CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Learning_Metrics_From_Teachers_Compact_Networks_for_Image_Embedding_CVPR_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1904.03624) [[PyTorch code]](https://github.com/yulu0724/EmbeddingDistillation)
 ### LIT Learned Intermediate Representation Training for Model Compression ICML 2019 [[paper]](http://proceedings.mlr.press/v97/koratana19a.html) [[code]](https://github.com/stanford-futuredata/lit-code)
 ### On the Efficacy of Knowledge Distillation ICCV 2019 [[arXiv paper]](https://arxiv.org/abs/1910.01348)
