@@ -18,7 +18,9 @@
 ### An Embarrassingly Simple Approach for Knowledge Distillation arXiv 2018 [[paper]](https://arxiv.org/abs/1812.01819)
 ### Born Again Neural Networks ICML 2018 [[arXiv paper]](https://arxiv.org/abs/1805.04770)
 ### Knowledge Transfer with Jacobian Matching ICML 2018 [[arXiv paper]](https://arxiv.org/abs/1803.00443)
+### Learning Deep Representations with Probabilistic Knowledge Transfer ECCV 2018 [[paper]](https://arxiv.org/abs/1803.10837) [[code]](https://github.com/passalis/probabilistic_kt)
 ### Learning Student Networks via Feature Embedding arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1812.06597)
+### Paraphrasing Complex Network Network Compression via Factor Transfer NIPS 2018 [[paper]](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) [[arXiv paper]](https://arxiv.org/abs/1802.04977)
 ### Self-supervised Knowledge Distillation Using Singular Value Decomposition ECCV 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_21)
 
 ## 2019
