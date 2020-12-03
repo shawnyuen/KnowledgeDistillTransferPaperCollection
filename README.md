@@ -41,6 +41,7 @@
 ### UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kundu_UM-Adapt_Unsupervised_Multi-Task_Adaptation_Using_Adversarial_Cross-Task_Distillation_ICCV_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1908.03884)
 
 ## 2020
+### Channel-wise Distillation for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13256) [[code]](https://github.com/drilistbox/CWD?v=1)
 ### Distilling Cross-Task Knowledge via Relationship Matching CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.html) [[PyTorch code]](https://github.com/njulus/ReFilled)
 ### Improved Knowledge Distillation via Teacher Assistant AAAI 2020 [[arXiv paper]](https://arxiv.org/abs/1902.03393)
 ### Inter-region Affinity Distillation for Road Marking Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2004.05304) [[code]](https://github.com/cardwing/Codes-for-IntRA-KD)
