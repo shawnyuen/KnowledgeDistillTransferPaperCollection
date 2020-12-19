@@ -1,5 +1,8 @@
 # KnowledgeDistillTransferPaperCollection
 
+## Survey
+### Knowledge Distillation A Survey arXiv 2020 [[paper]]()
+
 ## 2014
 ### Distilling the Knowledge in a Neural Network NIPSW 2014 [[arXiv paper]](https://arxiv.org/abs/1503.02531)
 "dark knowledge"
