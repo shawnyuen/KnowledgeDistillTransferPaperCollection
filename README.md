@@ -22,6 +22,7 @@
 ## 2018
 ### An Embarrassingly Simple Approach for Knowledge Distillation arXiv 2018 [[paper]](https://arxiv.org/abs/1812.01819)
 ### Born Again Neural Networks ICML 2018 [[arXiv paper]](https://arxiv.org/abs/1805.04770)
+### Dataset Distillation arXiv 2018 [[paper]](https://arxiv.org/abs/1811.10959)
 ### Knowledge Transfer with Jacobian Matching ICML 2018 [[arXiv paper]](https://arxiv.org/abs/1803.00443)
 ### Learning Deep Representations with Probabilistic Knowledge Transfer ECCV 2018 [[paper]](https://arxiv.org/abs/1803.10837) [[code]](https://github.com/passalis/probabilistic_kt)
 ### Learning Student Networks via Feature Embedding arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1812.06597)
@@ -50,10 +51,15 @@
 ### Channel-wise Distillation for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13256) [[code]](https://github.com/drilistbox/CWD?v=1)
 ### Contrastive Representation Distillation ICLR 2020 [[paper]](https://openreview.net/forum?id=SkgpBJrtvS)
 ### Distilling Cross-Task Knowledge via Relationship Matching CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.html) [[PyTorch code]](https://github.com/njulus/ReFilled)
+### Dreaming to Distill Data-Free Knowledge Transfer via DeepInversion CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.html) [[paper]](http://arxiv.org/abs/1912.08795)
 ### Feature-map-level Online Adversarial Knowledge Distillation ICML 2020 [[paper]](https://proceedings.mlr.press/v119/chung20a.html)
 ### Improved Knowledge Distillation via Teacher Assistant AAAI 2020 [[arXiv paper]](https://arxiv.org/abs/1902.03393)
 ### Inter-region Affinity Distillation for Road Marking Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2004.05304) [[code]](https://github.com/cardwing/Codes-for-IntRA-KD)
 ### Understanding and Improving Knowledge Distillation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03532)
+
+## 2021
+### Does Knowledge Distillation Really Work NIPS 2021 [[paper]](https://proceedings.neurips.cc/paper/2021/hash/376c6b9ff3bedbbea56751a84fffc10c-Abstract.html) [[paper]](https://arxiv.org/abs/2106.05945)
+### Is Label Smoothing Truly Incompatible with Knowledge Distillation An Empirical Study ICLR 2021 [[paper]](https://openreview.net/forum?id=PObuuGVrGaZ) [[paper]](https://arxiv.org/abs/2104.00676)
 
 ## 2022
 ### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
