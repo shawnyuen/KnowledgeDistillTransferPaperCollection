@@ -2,6 +2,7 @@
 
 ## Survey
 ### Knowledge Distillation A Survey IJCV 2021 [[IJCV paper]](https://link.springer.com/article/10.1007/s11263-021-01453-z) [[arXiv paper]](https://arxiv.org/abs/2006.05525)
+### Knowledge Distillation and Student-Teacher Learning for Visual Intelligence A Review and New Outlooks IEEE TPAMI [[pami paper]](https://ieeexplore.ieee.org/document/9340578) [[arXiv paper]](https://arxiv.org/abs/2004.05937)
 
 ## 2014
 ### Distilling the Knowledge in a Neural Network NIPSW 2014 [[arXiv paper]](https://arxiv.org/abs/1503.02531)
