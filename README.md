@@ -60,9 +60,18 @@
 
 ## 2021
 ### Does Knowledge Distillation Really Work NIPS 2021 [[paper]](https://proceedings.neurips.cc/paper/2021/hash/376c6b9ff3bedbbea56751a84fffc10c-Abstract.html) [[paper]](https://arxiv.org/abs/2106.05945)
+### Extrapolating from a Single Image to a Thousand Classes using Distillation arXiv 2021 [[paper]](https://arxiv.org/abs/2112.00725)
 ### Is Label Smoothing Truly Incompatible with Knowledge Distillation An Empirical Study ICLR 2021 [[paper]](https://openreview.net/forum?id=PObuuGVrGaZ) [[paper]](https://arxiv.org/abs/2104.00676)
+### Semi-Supervising Learning Transfer Learning and Knowledge Distillation with SimCLR arXiv 2021 [[paper]](https://arxiv.org/abs/2108.00587)
+### SimReg Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation BMVC 2021 [[paper]](https://arxiv.org/abs/2201.05131)
 
 ## 2022
 ### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
+### CMKD CNN Transformer-Based Cross-Model Knowledge Distillation for Audio Classification arXiv 2022 [[paper]](https://arxiv.org/abs/2203.06760)
 ### DistPro Searching A Fast Knowledge Distillation Process via Meta Optimization arXiv [[paper]](https://arxiv.org/abs/2204.05547)
+### Efficient One Pass Self-distillation with Zipf's Label Smoothing ECCV 2022 [[paper]](https://arxiv.org/abs/2207.12980)
 ### Knowledge Distillation A Good Teacher Is Patient and Consistent CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Beyer_Knowledge_Distillation_A_Good_Teacher_Is_Patient_and_Consistent_CVPR_2022_paper.html)
+### Meta Knowledge Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2202.07940)
+### On the Benefits of Knowledge Distillation for Adversarial Robustness arXiv 2022 [[paper]](https://arxiv.org/abs/2203.07159)
+### SKDCGN Source-free Knowledge Distillation of Counterfactual Generative Networks using cGANs ECCVW 2022 [[paper]](https://arxiv.org/abs/2208.04226)
+### What Knowledge Gets Distilled in Knowledge Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2205.16004)
