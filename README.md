@@ -49,3 +49,5 @@
 ### Improved Knowledge Distillation via Teacher Assistant AAAI 2020 [[arXiv paper]](https://arxiv.org/abs/1902.03393)
 ### Inter-region Affinity Distillation for Road Marking Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2004.05304) [[code]](https://github.com/cardwing/Codes-for-IntRA-KD)
 ### Understanding and Improving Knowledge Distillation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03532)
+
+### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
