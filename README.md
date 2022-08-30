@@ -67,6 +67,7 @@
 
 ## 2022
 ### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
+### Bag of Instances Aggregation Boosts Self-supervised Distillation ICLR 2022 [[paper]](https://openreview.net/forum?id=N0uJGWDw21d)
 ### CMKD CNN Transformer-Based Cross-Model Knowledge Distillation for Audio Classification arXiv 2022 [[paper]](https://arxiv.org/abs/2203.06760)
 ### DistPro Searching A Fast Knowledge Distillation Process via Meta Optimization arXiv [[paper]](https://arxiv.org/abs/2204.05547)
 ### Efficient One Pass Self-distillation with Zipf's Label Smoothing ECCV 2022 [[paper]](https://arxiv.org/abs/2207.12980)
