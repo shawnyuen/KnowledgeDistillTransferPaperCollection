@@ -59,6 +59,8 @@
 ### Understanding and Improving Knowledge Distillation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03532)
 
 ## 2021
+### Adaptive Distillation Aggregating Knowledge from Multiple Paths for Efficient Distillation BMVC 2021 [[paper]](https://arxiv.org/abs/2110.09674)
+### AUTOKD Automatic Knowledge Distillation Into A Student Architecture Family arXiv 2021 [[paper]](https://arxiv.org/abs/2111.03555)
 ### Does Knowledge Distillation Really Work NIPS 2021 [[paper]](https://proceedings.neurips.cc/paper/2021/hash/376c6b9ff3bedbbea56751a84fffc10c-Abstract.html) [[paper]](https://arxiv.org/abs/2106.05945)
 ### Extrapolating from a Single Image to a Thousand Classes using Distillation arXiv 2021 [[paper]](https://arxiv.org/abs/2112.00725)
 ### Is Label Smoothing Truly Incompatible with Knowledge Distillation An Empirical Study ICLR 2021 [[paper]](https://openreview.net/forum?id=PObuuGVrGaZ) [[paper]](https://arxiv.org/abs/2104.00676)
@@ -74,5 +76,8 @@
 ### Knowledge Distillation A Good Teacher Is Patient and Consistent CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Beyer_Knowledge_Distillation_A_Good_Teacher_Is_Patient_and_Consistent_CVPR_2022_paper.html)
 ### Meta Knowledge Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2202.07940)
 ### On the Benefits of Knowledge Distillation for Adversarial Robustness arXiv 2022 [[paper]](https://arxiv.org/abs/2203.07159)
+### PrUE: Distilling Knowledge from Sparse Teacher Networks arXiv 2022 [[paper]](https://arxiv.org/abs/2207.00586)
+### Pseudo Knowledge Distillation: Towards Learning Optimal Instance-specific Label Smoothing Regularization ICLR 2022 [[paper]](https://openreview.net/forum?id=SvFQBlffMB)
+### Revisiting Self-Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2206.08491)
 ### SKDCGN Source-free Knowledge Distillation of Counterfactual Generative Networks using cGANs ECCVW 2022 [[paper]](https://arxiv.org/abs/2208.04226)
 ### What Knowledge Gets Distilled in Knowledge Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2205.16004)
