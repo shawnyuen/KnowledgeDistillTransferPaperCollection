@@ -1,7 +1,7 @@
 # KnowledgeDistillTransferPaperCollection
 
 ## Survey
-### Knowledge Distillation A Survey arXiv 2020 [[paper]]()
+### Knowledge Distillation A Survey IJCV 2021 [[IJCV paper]](https://link.springer.com/article/10.1007/s11263-021-01453-z) [[arXiv paper]](https://arxiv.org/abs/2006.05525)
 
 ## 2014
 ### Distilling the Knowledge in a Neural Network NIPSW 2014 [[arXiv paper]](https://arxiv.org/abs/1503.02531)
@@ -50,4 +50,5 @@
 ### Inter-region Affinity Distillation for Road Marking Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2004.05304) [[code]](https://github.com/cardwing/Codes-for-IntRA-KD)
 ### Understanding and Improving Knowledge Distillation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03532)
 
+## 2022
 ### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
