@@ -64,4 +64,5 @@
 
 ## 2022
 ### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
+### DistPro Searching A Fast Knowledge Distillation Process via Meta Optimization arXiv [[paper]](https://arxiv.org/abs/2204.05547)
 ### Knowledge Distillation A Good Teacher Is Patient and Consistent CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Beyer_Knowledge_Distillation_A_Good_Teacher_Is_Patient_and_Consistent_CVPR_2022_paper.html)
