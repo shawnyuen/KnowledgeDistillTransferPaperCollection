@@ -30,8 +30,9 @@
 ### Self-supervised Knowledge Distillation Using Singular Value Decomposition ECCV 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_21)
 
 ## 2019
-### A Closer Look at Deep Learning Heuristics Learning rate restarts, Warmup and Distillation ICLR 2019 [[arXiv paper]](https://arxiv.org/abs/1810.13243)
+### A Closer Look at Deep Learning Heuristics Learning Rate Restarts Warmup and Distillation ICLR 2019 [[arXiv paper]](https://arxiv.org/abs/1810.13243)
 ### A Comprehensive Overhaul of Feature Distillation ICCV 2019 [[paper]](https://arxiv.org/abs/1904.01866)
+### Be Your Own Teacher Improve the Performance of Convolutional Neural Networks via Self Distillation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Be_Your_Own_Teacher_Improve_the_Performance_of_Convolutional_Neural_ICCV_2019_paper.html)
 ### Correlation Congruence for Knowledge Distillation ICCV 2019 [[arXiv paper]](https://arxiv.org/abs/1904.01802)
 ### Distilling Knowledge from a Deep Pose Regressor Network ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.html)
 ### Knowledge Distillation via Instance Relationship Graph CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.html)
