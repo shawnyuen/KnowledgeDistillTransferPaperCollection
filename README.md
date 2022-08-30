@@ -37,12 +37,13 @@
 ### Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons AAAI 2019 [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4264) [[arXiv paper]](https://arxiv.org/abs/1811.03233) [[code]](https://github.com/bhheo/AB_distillation)
 ### Learning Metrics From Teachers Compact Networks for Image Embedding CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Learning_Metrics_From_Teachers_Compact_Networks_for_Image_Embedding_CVPR_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1904.03624) [[PyTorch code]](https://github.com/yulu0724/EmbeddingDistillation)
 ### LIT Learned Intermediate Representation Training for Model Compression ICML 2019 [[paper]](http://proceedings.mlr.press/v97/koratana19a.html) [[code]](https://github.com/stanford-futuredata/lit-code)
+### MEAL Multi-Model Ensemble via Adversarial Learning AAAI 2019 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4417)
 ### On the Efficacy of Knowledge Distillation ICCV 2019 [[arXiv paper]](https://arxiv.org/abs/1910.01348)
 ### Relational Knowledge Distillation CVPR 2019 [[arXiv paper]](https://arxiv.org/abs/1904.05068) [[code]](https://github.com/lenscloth/RKD)
 ### Similarity-Preserving Knowledge Distillation ICCV 2019 [[arXiv paper]](https://arxiv.org/abs/1907.09682)
 ### Snapshot Distillation Teacher-Student Optimization in One Generation CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Snapshot_Distillation_Teacher-Student_Optimization_in_One_Generation_CVPR_2019_paper.html)
 ### Towards Understanding Knowledge Distillation ICML 2019 [[paper]](http://proceedings.mlr.press/v97/phuong19a.html)
-### UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kundu_UM-Adapt_Unsupervised_Multi-Task_Adaptation_Using_Adversarial_Cross-Task_Distillation_ICCV_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1908.03884)
+### UM-Adapt Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kundu_UM-Adapt_Unsupervised_Multi-Task_Adaptation_Using_Adversarial_Cross-Task_Distillation_ICCV_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1908.03884)
 
 ## 2020
 ### Channel-wise Distillation for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13256) [[code]](https://github.com/drilistbox/CWD?v=1)
