@@ -44,11 +44,13 @@
 ### Snapshot Distillation Teacher-Student Optimization in One Generation CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Snapshot_Distillation_Teacher-Student_Optimization_in_One_Generation_CVPR_2019_paper.html)
 ### Towards Understanding Knowledge Distillation ICML 2019 [[paper]](http://proceedings.mlr.press/v97/phuong19a.html)
 ### UM-Adapt Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kundu_UM-Adapt_Unsupervised_Multi-Task_Adaptation_Using_Adversarial_Cross-Task_Distillation_ICCV_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1908.03884)
+### When Does Label Smoothing Help NIPS 2019 [[paper]](https://proceedings.neurips.cc/paper/2019/hash/f1748d6b0fd9d439f71450117eba2725-Abstract.html)
 
 ## 2020
 ### Channel-wise Distillation for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13256) [[code]](https://github.com/drilistbox/CWD?v=1)
 ### Contrastive Representation Distillation ICLR 2020 [[paper]](https://openreview.net/forum?id=SkgpBJrtvS)
 ### Distilling Cross-Task Knowledge via Relationship Matching CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.html) [[PyTorch code]](https://github.com/njulus/ReFilled)
+### Feature-map-level Online Adversarial Knowledge Distillation ICML 2020 [[paper]](https://proceedings.mlr.press/v119/chung20a.html)
 ### Improved Knowledge Distillation via Teacher Assistant AAAI 2020 [[arXiv paper]](https://arxiv.org/abs/1902.03393)
 ### Inter-region Affinity Distillation for Road Marking Segmentation CVPR 2020 [[paper]](https://arxiv.org/abs/2004.05304) [[code]](https://github.com/cardwing/Codes-for-IntRA-KD)
 ### Understanding and Improving Knowledge Distillation arXiv 2020 [[paper]](https://arxiv.org/abs/2002.03532)
