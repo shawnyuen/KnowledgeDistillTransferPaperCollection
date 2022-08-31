@@ -73,6 +73,7 @@
 ### CMKD CNN Transformer-Based Cross-Model Knowledge Distillation for Audio Classification arXiv 2022 [[paper]](https://arxiv.org/abs/2203.06760)
 ### DistPro Searching A Fast Knowledge Distillation Process via Meta Optimization arXiv [[paper]](https://arxiv.org/abs/2204.05547)
 ### Efficient One Pass Self-distillation with Zipf's Label Smoothing ECCV 2022 [[paper]](https://arxiv.org/abs/2207.12980)
+### FAKD Feature Augmented Knowledge Distillation for Semantic Segmentation arXiv [[paper]](https://arxiv.org/abs/2208.14143) [[code]](https://github.com/jianlong-yuan/FAKD)
 ### Knowledge Distillation A Good Teacher Is Patient and Consistent CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Beyer_Knowledge_Distillation_A_Good_Teacher_Is_Patient_and_Consistent_CVPR_2022_paper.html)
 ### Meta Knowledge Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2202.07940)
 ### On the Benefits of Knowledge Distillation for Adversarial Robustness arXiv 2022 [[paper]](https://arxiv.org/abs/2203.07159)
