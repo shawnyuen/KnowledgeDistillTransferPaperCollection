@@ -11,6 +11,7 @@
 ### Bag of Instances Aggregation Boosts Self-supervised Distillation ICLR 2022 [[paper]](https://openreview.net/forum?id=N0uJGWDw21d)
 ### CMKD CNN Transformer-Based Cross-Model Knowledge Distillation for Audio Classification arXiv 2022 [[paper]](https://arxiv.org/abs/2203.06760)
 ### Cross-Image Relational Knowledge Distillation for Semantic Segmentation CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Cross-Image_Relational_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2022_paper.html) [[code]](https://github.com/winycg/CIRKD)
+### Decoupled Knowledge Distillation CVPR 2022 [[paper]](https://github.com/megvii-research/mdistiller)
 ### Distilling Inter-Class Distance for Semantic Segmentation IJCAI 2022 [[paper]](https://arxiv.org/abs/2205.03650)
 ### DistPro Searching A Fast Knowledge Distillation Process via Meta Optimization arXiv [[paper]](https://arxiv.org/abs/2204.05547)
 ### Efficient One Pass Self-distillation with Zipf's Label Smoothing ECCV 2022 [[paper]](https://arxiv.org/abs/2207.12980)
