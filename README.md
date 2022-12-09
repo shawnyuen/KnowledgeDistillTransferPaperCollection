@@ -21,6 +21,7 @@
 ### Knowledge Distillation A Good Teacher Is Patient and Consistent CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Beyer_Knowledge_Distillation_A_Good_Teacher_Is_Patient_and_Consistent_CVPR_2022_paper.html)
 ### Knowledge Distillation from A Stronger Teacher NeurIPS  2022
 ### Knowledge Distillation via the Target-Aware Transformer CVPR 2022
+### Knowledge Distillation with the Reused Teacher Classifier CVPR 2022 [[paper]](https://arxiv.org/abs/2203.14001) [[code]](https://github.com/DefangChen/SimKD)
 ### Masked Generative Distillation ECCV 2022
 ### Meta Knowledge Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2202.07940)
 ### Normalized Feature Distillation for Semantic Segmentation arXiv 2022
