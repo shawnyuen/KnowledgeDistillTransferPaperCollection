@@ -40,18 +40,19 @@
 
 ## 2021
 ### A Boundary-aware Distillation Network for Compressed Video Semantic Segmentation ICPR 2021 [[paper]](https://ieeexplore.ieee.org/document/9412821)
-### Adaptive Distillation Aggregating Knowledge from Multiple Paths for Efficient Distillation BMVC 2021 [[paper]](https://arxiv.org/abs/2110.09674)
-### AUTOKD Automatic Knowledge Distillation Into A Student Architecture Family arXiv 2021 [[paper]](https://arxiv.org/abs/2111.03555)
+### Adaptive Distillation Aggregating Knowledge from Multiple Paths for Efficient Distillation BMVC 2021 [[arXiv paper]](https://arxiv.org/abs/2110.09674)
+### AUTOKD Automatic Knowledge Distillation Into A Student Architecture Family arXiv 2021 [[arXiv paper]](https://arxiv.org/abs/2111.03555)
 ### Channel-Wise Knowledge Distillation for Dense Prediction ICCV 2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Shu_Channel-Wise_Knowledge_Distillation_for_Dense_Prediction_ICCV_2021_paper.html)
-### Does Knowledge Distillation Really Work NIPS 2021 [[paper]](https://proceedings.neurips.cc/paper/2021/hash/376c6b9ff3bedbbea56751a84fffc10c-Abstract.html) [[paper]](https://arxiv.org/abs/2106.05945)
-### Double Similarity Distillation for Semantic Image Segmentation IEEE TIP 2021
-### Efficient Knowledge Distillation for Liver CT Segmentation Using Growing Assistant Network PMB 2021
+### Does Knowledge Distillation Really Work NIPS 2021 [[paper]](https://proceedings.neurips.cc/paper/2021/hash/376c6b9ff3bedbbea56751a84fffc10c-Abstract.html) [[arXiv paper]](https://arxiv.org/abs/2106.05945)
+### Double Similarity Distillation for Semantic Image Segmentation IEEE TIP 2021 [[paper]](https://ieeexplore.ieee.org/document/9444191)
+### Efficient Knowledge Distillation for Liver CT Segmentation Using Growing Assistant Network PMB 2021 [[paper]](https://iopscience.iop.org/article/10.1088/1361-6560/ac3935/meta)
 ### Extrapolating from a Single Image to a Thousand Classes using Distillation arXiv 2021 [[paper]](https://arxiv.org/abs/2112.00725)
 ### Is Label Smoothing Truly Incompatible with Knowledge Distillation An Empirical Study ICLR 2021 [[paper]](https://openreview.net/forum?id=PObuuGVrGaZ) [[paper]](https://arxiv.org/abs/2104.00676)
-### Real-time Semantic Segmentation via Sequential Knowledge Distillation Neurocomputing 2021
+### Real-time Semantic Segmentation via Sequential Knowledge Distillation Neurocomputing 2021 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221001685)
+### SEED Self-supervised Distillation For Visual Representation ICLR 2021 [[arXiv paper]](https://arxiv.org/abs/2101.04731)
 ### Semi-Supervising Learning Transfer Learning and Knowledge Distillation with SimCLR arXiv 2021 [[paper]](https://arxiv.org/abs/2108.00587)
 ### SimReg Regression as a Simple Yet Effective Tool for Self-supervised Knowledge Distillation BMVC 2021 [[paper]](https://arxiv.org/abs/2201.05131)
-### Towards Efficient Medical Image Segmentation Via Boundary-Guided Knowledge Distillation IEEE ICME 2021
+### Towards Efficient Medical Image Segmentation Via Boundary-Guided Knowledge Distillation IEEE ICME 2021 [[paper]](https://ieeexplore.ieee.org/document/9428395)
 
 ## 2020
 ### Channel-wise Distillation for Semantic Segmentation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.13256) [[code]](https://github.com/drilistbox/CWD?v=1)
