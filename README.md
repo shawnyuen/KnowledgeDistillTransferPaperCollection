@@ -90,7 +90,7 @@
 
 ## 2018
 ### An Embarrassingly Simple Approach for Knowledge Distillation arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1812.01819)
-### Born Again Neural Networks ICML 2018 [[arXiv paper]](https://arxiv.org/abs/1805.04770)
+### Born Again Neural Networks ICML 2018 [[paper]](http://proceedings.mlr.press/v80/furlanello18a.html) [[arXiv paper]](https://arxiv.org/abs/1805.04770)
 ### Dataset Distillation arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1811.10959)
 ### Improving Fast Segmentation with Teacher-Student Learning BMVC 2018 [[arXiv paper]](https://arxiv.org/abs/1810.08476)
 ### KDGAN Knowledge Distillation with Generative Adversarial Networks NIPS 2018 [[paper]](https://proceedings.neurips.cc/paper/2018/hash/019d385eb67632a7e958e23f24bd07d7-Abstract.html)
