@@ -5,6 +5,9 @@
 ### Knowledge Distillation A Survey IJCV 2021 [[IJCV paper]](https://link.springer.com/article/10.1007/s11263-021-01453-z) [[arXiv paper]](https://arxiv.org/abs/2006.05525)
 ### Knowledge Distillation and Student-Teacher Learning for Visual Intelligence A Review and New Outlooks IEEE TPAMI [[pami paper]](https://ieeexplore.ieee.org/document/9340578) [[arXiv paper]](https://arxiv.org/abs/2004.05937)
 
+## 2023
+### TinyMIM An Empirical Study of Distilling MIM Pre-trained Models arXiv 2023 [[arXiv paper]](https://arxiv.org/abs/2301.01296) [[PyTorch code]](https://github.com/OliverRensu/TinyMIM)
+
 ## 2022
 ### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
 ### Adaptive Perspective Distillation for Semantic Segmentation IEEE TPAMI 2022 [[paper]](https://ieeexplore.ieee.org/document/9736597)
