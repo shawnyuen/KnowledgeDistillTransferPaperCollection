@@ -10,6 +10,7 @@
 ### Adaptive Perspective Distillation for Semantic Segmentation IEEE TPAMI 2022 [[paper]](https://ieeexplore.ieee.org/document/9736597)
 ### Bag of Instances Aggregation Boosts Self-supervised Distillation ICLR 2022 [[paper]](https://openreview.net/forum?id=N0uJGWDw21d)
 ### CMKD CNN Transformer-Based Cross-Model Knowledge Distillation for Audio Classification arXiv 2022 [[paper]](https://arxiv.org/abs/2203.06760)
+### Co-Advise Cross Inductive Bias Distillation CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Co-Advise_Cross_Inductive_Bias_Distillation_CVPR_2022_paper.html) [[code]](https://github.com/OliverRensu/co-advise)
 ### Cross-Image Relational Knowledge Distillation for Semantic Segmentation CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Cross-Image_Relational_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2022_paper.html) [[code]](https://github.com/winycg/CIRKD)
 ### Decoupled Knowledge Distillation CVPR 2022 [[paper]](https://github.com/megvii-research/mdistiller)
 ### Distilling Inter-Class Distance for Semantic Segmentation IJCAI 2022 [[paper]](https://arxiv.org/abs/2205.03650)
@@ -94,7 +95,7 @@
 ### Self-supervised Knowledge Distillation Using Singular Value Decomposition ECCV 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_21) [[cvf paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html) [[arXiv paper]](https://arxiv.org/abs/1807.06819) [[TensorFlow code]](https://github.com/sseung0703/SSKD_SVD)
 
 ## 2017
-### (Gram Matrix) A Gift from Knowledge Distillation Fast Optimization, Network Minimization and Transfer Learning CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yim_A_Gift_From_CVPR_2017_paper.html)
+### (Gram Matrix) A Gift from Knowledge Distillation Fast Optimization Network Minimization and Transfer Learning CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yim_A_Gift_From_CVPR_2017_paper.html)
 ### Like What You Like Knowledge Distill via Neuron Selectivity Transfer arXiv 2017 [[paper]](https://arxiv.org/abs/1707.01219)
 ### (Attention Map) Paying More Attention to Attention Improving the Performance of Convolutional Neural Networks via Attention Transfer ICLR 2017 [[paper]](https://openreview.net/forum?id=Sks9_ajex) [[code]](https://github.com/szagoruyko/attention-transfer)
 
