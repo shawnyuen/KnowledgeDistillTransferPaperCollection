@@ -14,6 +14,7 @@
 ### Bag of Instances Aggregation Boosts Self-supervised Distillation ICLR 2022 [[paper]](https://openreview.net/forum?id=N0uJGWDw21d)
 ### CMKD CNN Transformer-Based Cross-Model Knowledge Distillation for Audio Classification arXiv 2022 [[paper]](https://arxiv.org/abs/2203.06760)
 ### Co-Advise Cross Inductive Bias Distillation CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Co-Advise_Cross_Inductive_Bias_Distillation_CVPR_2022_paper.html) [[code]](https://github.com/OliverRensu/co-advise)
+### Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation arXiv 2022 [[arXiv paper]](https://arxiv.org/abs/2205.14141)
 ### Cross-Image Relational Knowledge Distillation for Semantic Segmentation CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Cross-Image_Relational_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2022_paper.html) [[code]](https://github.com/winycg/CIRKD)
 ### Decoupled Knowledge Distillation CVPR 2022 [[paper]](https://github.com/megvii-research/mdistiller)
 ### Distilling Inter-Class Distance for Semantic Segmentation IJCAI 2022 [[paper]](https://arxiv.org/abs/2205.03650)
@@ -88,12 +89,13 @@
 ### When Does Label Smoothing Help NIPS 2019 [[paper]](https://proceedings.neurips.cc/paper/2019/hash/f1748d6b0fd9d439f71450117eba2725-Abstract.html)
 
 ## 2018
-### An Embarrassingly Simple Approach for Knowledge Distillation arXiv 2018 [[paper]](https://arxiv.org/abs/1812.01819)
+### An Embarrassingly Simple Approach for Knowledge Distillation arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1812.01819)
 ### Born Again Neural Networks ICML 2018 [[arXiv paper]](https://arxiv.org/abs/1805.04770)
-### Dataset Distillation arXiv 2018 [[paper]](https://arxiv.org/abs/1811.10959)
-### Improving Fast Segmentation with Teacher-Student Learning BMVC 2018
+### Dataset Distillation arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1811.10959)
+### Improving Fast Segmentation with Teacher-Student Learning BMVC 2018 [[arXiv paper]](https://arxiv.org/abs/1810.08476)
+### KDGAN Knowledge Distillation with Generative Adversarial Networks NIPS 2018 [[paper]](https://proceedings.neurips.cc/paper/2018/hash/019d385eb67632a7e958e23f24bd07d7-Abstract.html)
 ### Knowledge Transfer with Jacobian Matching ICML 2018 [[arXiv paper]](https://arxiv.org/abs/1803.00443)
-### Learning Deep Representations with Probabilistic Knowledge Transfer ECCV 2018 [[paper]](https://arxiv.org/abs/1803.10837) [[code]](https://github.com/passalis/probabilistic_kt)
+### Learning Deep Representations with Probabilistic Knowledge Transfer ECCV 2018 [[arXiv paper]](https://arxiv.org/abs/1803.10837) [[code]](https://github.com/passalis/probabilistic_kt)
 ### Learning Student Networks via Feature Embedding arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1812.06597)
 ### Paraphrasing Complex Network Network Compression via Factor Transfer NIPS 2018 [[paper]](https://proceedings.neurips.cc/paper/2018/hash/6d9cb7de5e8ac30bd5e8734bc96a35c1-Abstract.html) [[arXiv paper]](https://arxiv.org/abs/1802.04977) [[PyTorch code]](https://github.com/Jangho-Kim/Factor-Transfer-pytorch)
 ### Self-supervised Knowledge Distillation Using Singular Value Decomposition ECCV 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_21) [[cvf paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html) [[arXiv paper]](https://arxiv.org/abs/1807.06819) [[TensorFlow code]](https://github.com/sseung0703/SSKD_SVD)
