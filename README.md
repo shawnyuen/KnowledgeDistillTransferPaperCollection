@@ -91,7 +91,7 @@
 ### Learning Deep Representations with Probabilistic Knowledge Transfer ECCV 2018 [[paper]](https://arxiv.org/abs/1803.10837) [[code]](https://github.com/passalis/probabilistic_kt)
 ### Learning Student Networks via Feature Embedding arXiv 2018 [[arXiv paper]](https://arxiv.org/abs/1812.06597)
 ### Paraphrasing Complex Network Network Compression via Factor Transfer NIPS 2018 [[paper]](https://proceedings.neurips.cc/paper/2018/hash/6d9cb7de5e8ac30bd5e8734bc96a35c1-Abstract.html) [[arXiv paper]](https://arxiv.org/abs/1802.04977) [[PyTorch code]](https://github.com/Jangho-Kim/Factor-Transfer-pytorch)
-### Self-supervised Knowledge Distillation Using Singular Value Decomposition ECCV 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_21)
+### Self-supervised Knowledge Distillation Using Singular Value Decomposition ECCV 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_21) [[cvf paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html) [[arXiv paper]](https://arxiv.org/abs/1807.06819) [[TensorFlow code]](https://github.com/sseung0703/SSKD_SVD)
 
 ## 2017
 ### (Gram Matrix) A Gift from Knowledge Distillation Fast Optimization, Network Minimization and Transfer Learning CVPR 2017 [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yim_A_Gift_From_CVPR_2017_paper.html)
