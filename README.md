@@ -64,7 +64,7 @@
 
 ## 2019
 ### A Closer Look at Deep Learning Heuristics Learning Rate Restarts Warmup and Distillation ICLR 2019 [[arXiv paper]](https://arxiv.org/abs/1810.13243)
-### A Comprehensive Overhaul of Feature Distillation ICCV 2019 [[paper]](https://arxiv.org/abs/1904.01866)
+### A Comprehensive Overhaul of Feature Distillation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Heo_A_Comprehensive_Overhaul_of_Feature_Distillation_ICCV_2019_paper.html) [[arXiv paper]](https://arxiv.org/abs/1904.01866) [[PyTorch code]](https://github.com/clovaai/overhaul-distillation)
 ### Be Your Own Teacher Improve the Performance of Convolutional Neural Networks via Self Distillation ICCV 2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Be_Your_Own_Teacher_Improve_the_Performance_of_Convolutional_Neural_ICCV_2019_paper.html)
 ### Correlation Congruence for Knowledge Distillation ICCV 2019 [[arXiv paper]](https://arxiv.org/abs/1904.01802)
 ### Distilling Knowledge from a Deep Pose Regressor Network ICCV 2019 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.html)
