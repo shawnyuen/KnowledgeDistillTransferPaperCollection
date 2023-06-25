@@ -7,6 +7,8 @@
 
 ## 2023
 ### TinyMIM An Empirical Study of Distilling MIM Pre-trained Models arXiv 2023 [[arXiv paper]](https://arxiv.org/abs/2301.01296) [[PyTorch code]](https://github.com/OliverRensu/TinyMIM)
+### Generalization Matters - Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation CVPR 2023 [[arXiv paper]](https://arxiv.org/abs/2303.14666)
+"The supervision loss of HWM can estimate the landscape’s curvature of the whole region around students to measure the generalization explicitly"
 
 ## 2022
 ### A Fast Knowledge Distillation Framework for Visual Recognition ECCV 2022 [[paper]](https://arxiv.org/abs/2112.01528) [[code]](https://github.com/szq0214/FKD)
@@ -35,8 +37,9 @@
 ### Pseudo Knowledge Distillation: Towards Learning Optimal Instance-specific Label Smoothing Regularization ICLR 2022 [[paper]](https://openreview.net/forum?id=SvFQBlffMB)
 ### Revisiting Self-Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2206.08491)
 ### SKDCGN Source-free Knowledge Distillation of Counterfactual Generative Networks using cGANs ECCVW 2022 [[paper]](https://arxiv.org/abs/2208.04226)
-### Structural and Statistical Texture Knowledge Distillation for Semantic Segmentation CVPR 2022
-### TransKD Transformer Knowledge Distillation for Efficient Semantic Segmentation arXiv 2022
+### Structural and Statistical Texture Knowledge Distillation for Semantic Segmentation CVPR 2022 [[arXiv paper]](https://arxiv.org/abs/2305.03944)
+""
+### TransKD - Transformer Knowledge Distillation for Efficient Semantic Segmentation arXiv 2022
 ### What Knowledge Gets Distilled in Knowledge Distillation arXiv 2022 [[paper]](https://arxiv.org/abs/2205.16004)
 
 ## 2021
