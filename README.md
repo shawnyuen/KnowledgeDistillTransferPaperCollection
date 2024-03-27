@@ -1,9 +1,13 @@
-# KnowledgeDistillTransferPaperCollection
+# knowledge_distill_transfer_paper_collection
 
 ## Survey
 ### Distilling Knowledge via Knowledge - Review CVPR 2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Distilling_Knowledge_via_Knowledge_Review_CVPR_2021_paper.html) [[arXiv paper]](https://arxiv.org/abs/2104.09044)
 ### Knowledge Distillation A Survey IJCV 2021 [[IJCV paper]](https://link.springer.com/article/10.1007/s11263-021-01453-z) [[arXiv paper]](https://arxiv.org/abs/2006.05525)
 ### Knowledge Distillation and Student-Teacher Learning for Visual Intelligence - A Review and New Outlooks IEEE TPAMI 2022 [[pami paper]](https://ieeexplore.ieee.org/document/9340578) [[arXiv paper]](https://arxiv.org/abs/2004.05937)
+
+## 2024
+### Logit Standardization in Knowledge Distillation CVPR 2024 [[paper]](https://arxiv.org/abs/2403.01427)
+""
 
 ## 2023
 ### A Knowledge Distillation framework for Multi-Organ Segmentation of Medaka Fish in Tomographic Image IEEE ISBI 2023
